@@ -4,6 +4,7 @@ To get started, clone the source code from the GitHub repositories by following 
 1. Create a folder called CDR.
 2. Navigate to this folder.
 3. Clone the repo as a subfolder of this folder using the following command:
+   
 ```
 git clone https://github.com/ConsumerDataRight/mock-data-holder.git
 ```
