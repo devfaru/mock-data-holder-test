@@ -6,6 +6,8 @@ There are a number of ways that this image can be used.
 
 ## Pull the Mock Data Holder image from Docker Hub
 
+
+
 Run the following command to pull the latest image from Docker Hub:
 
 ```
